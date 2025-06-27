@@ -22,7 +22,7 @@ This project demonstrates modern CSS design concepts like:
 
 ### 📸 Preview:
 
-![Preview](Bio_Card_Screenshot.png)
+![Preview](Bio_Card_Sreenshot.png)
 
 ---
 
